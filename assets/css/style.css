@@ -1,5 +1,7 @@
 @font-face{font-family:space_and_astronomyregular;src:url(../../assets/fonts/spaceandastronomy-pzrd-webfont.woff2) format('woff2'),url(../../assets/fonts/spaceandastronomy-pzrd-webfont.woff) format('woff');font-style:normal}
 
+@font-face{font-family:deja;src:url(../../assets/fonts/DejaVuSetif.ttf) format('ttf'), font-style:normal}
+
 html {
   scroll-behavior: smooth;
 }
@@ -8,6 +10,13 @@ html {
       font-family: space_and_astronomyregular;
 }
 
+.pppfont2 {
+    font-family: deja;
+}
+
+.ppp-bg-black {
+    background-color: black;
+}
 /*
 body {
     min-height: 100vh;
