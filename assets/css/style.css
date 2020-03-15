@@ -23,10 +23,6 @@ html {
     background-image: repeating-linear-gradient(0deg, hsla(103,11%,32%,0.09) 0px, hsla(103,11%,32%,0.09) 1px,transparent 1px, transparent 11px),repeating-linear-gradient(90deg, hsla(103,11%,32%,0.09) 0px, hsla(103,11%,32%,0.09) 1px,transparent 1px, transparent 11px),linear-gradient(90deg, hsl(0, 0%, 0%),hsl(317,13%,6%));
 }
 
-.ppp-bg-one {
-     background-attachment: scroll;
-}
-
 /*
 html {
   font-size: 1rem;
