@@ -2,12 +2,14 @@
 
 @font-face{font-family:deja;src:url(../../assets/fonts/DejaVuSetif.ttf) format('ttf'), font-style:normal}
 
+/*
 @media only screen  
 and (max-device-width : 1024px) {
     .ppp-bg-ios{
     background-attachment: initial;
   }
 }
+*/
 
 html {
   scroll-behavior: smooth;
